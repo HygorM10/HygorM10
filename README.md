@@ -1,6 +1,6 @@
 ### Bem Vindo Jovem! 😁
 
-Muito prazer meu nome é Hygor Martins, sou graduado em Sistemas de Informação (🎓) pela [UEMG](http://www.uemg.br/unidades-2019/164-passos). Trabalho na área de Tecnologia desde 2017 e atualmente sou Analista de Engenharia de TI no [Itaú Unibanco](https://www.itau.com.br). Integrante da equipe "Int Mainha" nas Maratonas de Programação (2017, 2018, 2019) evento da [SBC](http://maratona.sbc.org.br/sobre20.html) e de diversos hackathons (🧑🏻‍💻). Sou uma pessoa curiosa, determinada, que está sempre buscando aprender algo novo e que se empenha para ajudar pessoas que estão ingressando na área de tecnologia.
+Muito prazer meu nome é Hygor Martins, sou graduado em Sistemas de Informação (🎓) pela [UEMG](http://www.uemg.br/unidades-2019/164-passos). Trabalho na área de Tecnologia desde 2017 e atualmente sou Analista de Engenharia de TI no [Itaú Unibanco](https://www.itau.com.br). Integrante da equipe "Int Mainha" nas Maratonas de Programação (2017, 2018, 2019) evento da [SBC](http://maratona.sbc.org.br/sobre20.html) e participante de diversos hackathons (🧑🏻‍💻). Sou uma pessoa curiosa, determinada, que está sempre buscando aprender algo novo e que se empenha para ajudar pessoas que estão ingressando na área de tecnologia.
 
 No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filmes (🎞️), ler livros (📚), ouvir música (🎵) e ir para o sítio (👨‍🌾).
 
