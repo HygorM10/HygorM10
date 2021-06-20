@@ -6,6 +6,6 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
 
 Gostaria de me encontrar?
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/HygorMartins)](https://www.facebook.com/HygorMartins)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hygor_m_)](https://www.instagram.com/hygor_m_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hygormartins)](https://www.linkedin.com/in/hygormartins)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hygor_m_)](https://www.instagram.com/hygor_m_)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/HygorMartins)](https://www.facebook.com/HygorMartins)
