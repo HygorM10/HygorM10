@@ -26,7 +26,7 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
   <br>
 </div>
 
-<hr/>
+##
 
 Gostaria de me encontrar?
 
