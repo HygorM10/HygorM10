@@ -4,6 +4,7 @@ Muito prazer meu nome é Hygor Martins, sou graduado em Sistemas de Informação
 
 No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filmes e séries (🎞️), ler livros (📚) e ouvir música (🎵).
 
+
 ## 🧑‍💻 Minha Stack
 
  Essas são algumas das tecnologias que uso no dia a dia
@@ -21,6 +22,7 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
   <img align="center" alt="Hygor-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
+
 ## 📈 Estatísticas
 
 <div align="center">
@@ -29,6 +31,7 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ 
 ## :speech_balloon: Vamos conversar  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
@@ -41,6 +44,7 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
   <a href="https://open.spotify.com/user/hygor_martins?si=6c10a991b7bb4209" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
+   
 #
 
 ![Snake animation](https://github.com/hygorm10/hygorm10/blob/output/github-contribution-grid-snake.svg)
