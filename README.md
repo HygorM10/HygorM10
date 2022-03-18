@@ -2,7 +2,7 @@
 
 Muito prazer meu nome é Hygor Martins, sou graduado em Sistemas de Informação (🎓) pela [UEMG](http://www.uemg.br/unidades-2019/164-passos). Trabalho na área de Tecnologia desde 2017 e atualmente sou Analista de Engenharia de TI no [Itaú Unibanco](https://www.itau.com.br). Integrante da equipe "Int Mainha" nas Maratonas de Programação (2017, 2018, 2019) evento da [SBC](http://maratona.sbc.org.br/sobre20.html) e participante de diversos hackathons (🧑🏻‍💻). Sou uma pessoa curiosa, determinada, que está sempre buscando aprender algo novo e que se empenha para ajudar pessoas que estão ingressando na área de tecnologia.
 
-No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filmes (🎞️), ler livros (📚), ouvir música (🎵) e ir para o sítio (👨‍🌾).
+No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filmes e séries (🎞️), ler livros (📚) e ouvir música (🎵).
 
 ## 🧑‍💻 Minha Stack
 
@@ -19,7 +19,6 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
   <img align="center" alt="Hygor-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Hygor-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Hygor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Hygor-Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
 </div>
 
 ## 📈 Estatísticas
