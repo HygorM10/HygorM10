@@ -5,6 +5,7 @@ Muito prazer meu nome é Hygor Martins, sou graduado em Sistemas de Informação
 No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filmes e séries (🎞️), ler livros (📚) e ouvir música (🎵).
 
 
+
 ## 🧑‍💻 Minha Stack
 
  Essas são algumas das tecnologias que uso no dia a dia
@@ -23,6 +24,7 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
 </div>
 
 
+
 ## 📈 Estatísticas
 
 <div align="center">
@@ -31,6 +33,7 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ 
  
 ## :speech_balloon: Vamos conversar  
 
