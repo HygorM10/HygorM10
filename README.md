@@ -1,27 +1,23 @@
 <h1 align="center" >Bem Vindo Jovem! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Muito prazer meu nome é Hygor Martins, sou graduado em Sistemas de Informação (🎓) pela [UEMG](http://www.uemg.br/unidades-2019/164-passos). Trabalho na área de Tecnologia desde 2017 e atualmente sou Analista de Engenharia de TI no [Itaú Unibanco](https://www.itau.com.br). Integrante da equipe "Int Mainha" nas Maratonas de Programação (2017, 2018, 2019) evento da [SBC](http://maratona.sbc.org.br/sobre20.html) e participante de diversos hackathons (🧑🏻‍💻). Sou uma pessoa curiosa, determinada, que está sempre buscando aprender algo novo e que se empenha para ajudar pessoas que estão ingressando na área de tecnologia.
+Muito prazer meu nome é Hygor Martins, sou graduado em Sistemas de Informação (🎓) pela [UEMG](http://www.uemg.br/unidades-2019/164-passos). Trabalho na área de Tecnologia desde 2017 e atualmente sou Developer Specialist no [Grupo Boticário](https://www.grupoboticario.com.br/) participando da construção do maior e melhor ecossistema de beleza do mundo. Integrante da equipe "Int Mainha" nas Maratonas de Programação (2017, 2018, 2019) evento da [SBC](http://maratona.sbc.org.br/sobre20.html) e participante de diversos hackathons (🧑🏻‍💻). Sou uma pessoa curiosa, determinada, que está sempre buscando aprender algo novo e que se empenha para ajudar pessoas que estão ingressando na área de tecnologia.
 
-No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filmes e séries (🎞️), ler livros (📚) e ouvir música (🎵).
-
-
+No meu tempo livre, gosto de andar de bike (🚵🏻‍♂️), jogar (e assistir) futebol (⚽️), assistir filmes e séries (🎞️), ler livros (📚) e ouvir música (🎵).
 
 ## 🧑‍💻 Minha Stack
 
  Essas são algumas das tecnologias que uso no dia a dia
 
 <div align="center">
-  <img align="center" alt="Hygor-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Hygor-Kotlin" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-  <img align="center" alt="Hygor-Groovy" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" /> 
+  <img align="center" alt="Hygor-Groovy" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
+  <img align="center" alt="Hygor-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Hygor-Spring" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Hygor-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Hygor-Kafka" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
   <img align="center" alt="Hygor-Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   <align="center" alt="Hygor-AWS" height="70" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
-
-
 
 ## 📈 Estatísticas
 
@@ -31,8 +27,6 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- 
- 
 ## :speech_balloon: Vamos conversar  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
@@ -45,7 +39,6 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
   <a href="https://open.spotify.com/user/hygor_martins?si=6c10a991b7bb4209" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
-   
 #
 
 ![Snake animation](https://github.com/hygorm10/hygorm10/blob/output/github-contribution-grid-snake.svg)
