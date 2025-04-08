@@ -46,7 +46,7 @@ Essas são algumas das tecnologias que uso no dia a dia
 
 ## 📈 Estatísticas
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/hygorm10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hygorm10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/>
@@ -64,7 +64,7 @@ Essas são algumas das tecnologias que uso no dia a dia
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/hygormartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/hygorm10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/HygorMartins" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
