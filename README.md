@@ -1,4 +1,8 @@
-<h1 align="center">E aí, tudo certo? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="coding-cat" />
+</div>
+
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1>
 
 Sou graduado em Sistemas de Informação 🎓 pela [UEMG](http://www.uemg.br/unidades-2019/164-passos) e pós-graduado em Arquitetura de Software FullCycle 🚧 pela [Faculdade FullCycle de Tecnologia](https://fullcycle.com.br/), com atuação na área de Tecnologia desde 2017, sempre em busca de inovação e evolução contínua. Atualmente, sou Developer Specialist no [Grupo Boticário](https://www.grupoboticario.com.br/), contribuindo para a criação do maior e melhor ecossistema de beleza do mundo. 💄✨
 
@@ -54,7 +58,7 @@ Essas são algumas das tecnologias que uso no dia a dia
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hygorm10/hygorm10/output/pacman-contribution-graph.svg">
 </picture>
 
-## :speech_balloon: Vamos conversar  
+## :speech_balloon: Vamos conversar
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
