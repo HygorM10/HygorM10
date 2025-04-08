@@ -52,6 +52,8 @@ Essas são algumas das tecnologias que uso no dia a dia
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hygorm10/hygorm10/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hygorm10/hygorm10/output/pacman-contribution-graph.svg">
