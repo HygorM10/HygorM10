@@ -48,8 +48,9 @@ Essas são algumas das tecnologias que uso no dia a dia
 
 <div align="left">
   <a href="https://github.com/hygorm10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hygorm10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/>
+  ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hygorm10&theme=dark)
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hygorm10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
 <br>
