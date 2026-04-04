@@ -46,14 +46,14 @@ Essas são algumas das tecnologias que uso no dia a dia
 
 ## 📈 Estatísticas
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/hygorm10">
-  ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hygorm10&theme=dark)
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hygorm10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img src="https://streak-stats.demolab.com?user=hygorm10&theme=onedark&hide_border=true" alt="hygorm10's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hygorm10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorm10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br>
+<br> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hygorm10/hygorm10/output/pacman-contribution-graph-dark.svg">
